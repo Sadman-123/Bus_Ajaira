@@ -19,7 +19,7 @@ body{
   font-weight: bold;
 }
 .box:nth-child(even){
-  background-color: cyan;
+  background-color: rgb(255, 0, 255);
   color: black;
   font-style: italic;
 }
