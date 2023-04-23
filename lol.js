@@ -8,3 +8,5 @@ function ajaira(){
     alert('Hello World')
  let fun=()=>alert('Hello World')
  //finally!!
+ fucntion lol(){
+     alert('Hello world')}
